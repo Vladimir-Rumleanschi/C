@@ -1,0 +1,5 @@
+entering initial state
+transition to state running
+transition to state stop
+time: 1 s
+transition to state reset

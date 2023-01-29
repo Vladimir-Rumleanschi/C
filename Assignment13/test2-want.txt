@@ -1,0 +1,11 @@
+entering initial state
+transition to state running
+transition to state stop
+time: 2 s
+transition to state running
+transition to state stop
+time: 4 s
+transition to state reset
+transition to state running
+transition to state stop
+time: 1 s
